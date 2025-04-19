@@ -9,7 +9,7 @@ on:
     # Run daily at 2 PM UTC (14:00)
     - cron: '0 14 * * *'
 
-# This workflow handles anime content uploads for educational purposes only
+# This workflow handles AI cartoon content uploads with 7-10 videos per channel daily
 jobs:
   upload-videos:
     name: Upload Videos to YouTube Channels
